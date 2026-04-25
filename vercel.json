@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://angker77-terbaru.vercel.app/$1",
+      "permanent": true
+    }
+  ]
+}
